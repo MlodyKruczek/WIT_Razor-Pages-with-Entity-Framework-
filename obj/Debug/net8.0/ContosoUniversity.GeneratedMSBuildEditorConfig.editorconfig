@@ -17,63 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContosoUniversity
 build_property.RootNamespace = ContosoUniversity
-build_property.ProjectDir = d:\STUDIA\WIT\Season_4\Programowanie w interniecie\LAB3\ContosoUniversity\
+build_property.ProjectDir = D:\STUDIA\WIT\Season_4\Programowanie w interniecie\LAB3\ContosoUniversity\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\STUDIA\WIT\Season_4\Programowanie w interniecie\LAB3\ContosoUniversity
+build_property.MSBuildProjectDirectory = D:\STUDIA\WIT\Season_4\Programowanie w interniecie\LAB3\ContosoUniversity
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/About.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Error.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Index.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Privacy.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Create.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Delete.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Details.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Edit.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Index.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/_ViewImports.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/_ViewStart.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Shared/_Layout.cshtml]
+[D:/STUDIA/WIT/Season_4/Programowanie w interniecie/LAB3/ContosoUniversity/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bnnbnzjzeh

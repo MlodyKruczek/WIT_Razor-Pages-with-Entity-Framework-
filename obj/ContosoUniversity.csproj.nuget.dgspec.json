@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\obj\\",
+        "outputPath": "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
