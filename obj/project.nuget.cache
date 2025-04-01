@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCMNQBZp71s=",
+  "dgSpecHash": "dEvbCpyhAlA=",
   "success": true,
-  "projectFilePath": "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\LAB3\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
